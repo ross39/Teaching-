@@ -1,0 +1,15 @@
+message = "Hello from the message variable"
+print(message)
+
+# name error 
+# Uncomment to see error 
+# print(mesage)
+
+# Both of these are valid strings
+my_string = "This is a double-quoted string."
+my_string_two = 'This is a single-quoted string.'
+
+quote = "Linus Torvalds once said, 'Any program is only as good as it is useful.'"
+print(my_string)
+print(my_string_two)
+print(quote)
